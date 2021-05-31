@@ -1,5 +1,5 @@
 # Polymorphisme
-Polymorphisme Modul
+Polymorphisme Modul-XR1-17-Lintang Ramadhanu Setyawan
 # SS KELUARAN
 
 # Latihan 1
